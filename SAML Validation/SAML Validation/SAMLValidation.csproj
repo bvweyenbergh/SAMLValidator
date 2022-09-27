@@ -51,6 +51,12 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <None Include="samlcert2.cer" />
+    <None Include="samlcert1.cer" />
+    <None Include="issuer4.cer" />
+    <None Include="issuer3.cer" />
+    <None Include="issuer2.cer" />
+    <None Include="issuer1.cer" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
